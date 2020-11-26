@@ -1,0 +1,17 @@
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.repository\bin\Debug\netcoreapp3.1\app.repository.deps.json
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.repository\bin\Debug\netcoreapp3.1\app.repository.dll
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.repository\obj\Debug\netcoreapp3.1\app.repository.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.repository\obj\Debug\netcoreapp3.1\app.repository.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.repository\obj\Debug\netcoreapp3.1\app.repository.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\bin\Debug\netcoreapp3.1\app.repository.deps.json
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\bin\Debug\netcoreapp3.1\app.repository.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\bin\Debug\netcoreapp3.1\app.repository.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\bin\Debug\netcoreapp3.1\app.domain.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\bin\Debug\netcoreapp3.1\app.domain.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.csprojAssemblyReference.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.csproj.CopyComplete
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.repository\obj\Debug\netcoreapp3.1\app.repository.pdb

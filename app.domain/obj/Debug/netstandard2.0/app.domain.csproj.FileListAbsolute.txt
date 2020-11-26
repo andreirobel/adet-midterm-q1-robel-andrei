@@ -1,0 +1,14 @@
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.domain\bin\Debug\netstandard2.0\app.domain.deps.json
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.domain\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.domain\obj\Debug\netstandard2.0\app.domain.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\prelim-exam-Sampedro-James\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\bin\Debug\netstandard2.0\app.domain.deps.json
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.csprojAssemblyReference.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.domain\obj\Debug\netstandard2.0\app.domain.pdb

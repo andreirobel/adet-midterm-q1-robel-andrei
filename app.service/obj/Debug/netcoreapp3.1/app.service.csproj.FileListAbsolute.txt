@@ -1,0 +1,14 @@
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.service.deps.json
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.service.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.service.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.domain.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.repository.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.repository.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\bin\Debug\netcoreapp3.1\app.domain.pdb
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.csprojAssemblyReference.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.csproj.CopyComplete
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.dll
+C:\Users\Lenovo Ideapad A320\source\repos\adet-midterm-q1-sorila-raquel\app.service\obj\Debug\netcoreapp3.1\app.service.pdb
